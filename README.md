@@ -1,5 +1,7 @@
 # throttleq
 
+[![Build Status](https://travis-ci.org/yola/throttleq.png)](https://travis-ci.org/yola/throttleq)
+
 Limit the number of promises that can be simultaneously in flight.
 
 ## Usage
