@@ -1,3 +1,6 @@
+/* Original code from: https://gist.github.com/gaearon/7930162
+ */
+
 var q = require('q');
 
 
