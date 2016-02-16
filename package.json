@@ -1,6 +1,6 @@
 {
   "name": "throttleq",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Limit the number of promises that can be in flight simultaneously",
   "main": "index.js",
   "dependencies": {
