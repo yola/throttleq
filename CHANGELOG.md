@@ -1,6 +1,10 @@
 Change Log
 ==========
 
+# 0.0.3
+
+* Pin dependencies to minor version
+
 # 0.0.2
 
 * Updated dependencies ([2][2])
